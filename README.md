@@ -116,7 +116,7 @@ To reproduce the analysis:
 
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/YourUsername/Telecom-Customer-Analysis.git
+    git clone https://github.com/Mehta-Kartik/Telecom-Customer-Analysis.git
     cd Telecom-Customer-Analysis
     ```
 
